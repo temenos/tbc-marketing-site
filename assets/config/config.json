@@ -1,0 +1,5 @@
+{
+  "appKey": "1ea4970bca602a4b041fcafd43a620c5",
+  "appSecret": "c4f916f81d5bb72aff77f70067dcf503",
+  "serviceUrl": "http://host.docker.internal:8081/authService/100000002/appconfig"
+}
