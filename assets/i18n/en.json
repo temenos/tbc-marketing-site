@@ -1,0 +1,74 @@
+{
+  "BUTTONS": {
+    "CLEAR": "Clear",
+    "SUBMIT": "Submit",
+    "BACK": "Back",
+    "UPDATE": "Update"
+  },
+  "HEADERS": {
+    "USERNAME": "User Name",
+    "EMAIL": "Email",
+    "PHONE": "Phone",
+    "DATE": "Choose a date",
+    "SUCCESS": "Success"
+  },
+  "ERRORS": {
+    "REQUIRED": "Required",
+    "USERNAME": "Username is",
+    "EMAIL": "Email is",
+    "KINDLY": "Kindly enter valid",
+    "EMAIL_ADDRESS": "Email Address",
+    "PHONE": "Phone Number is",
+    "AVATAR": "Avatar is",
+    "CREATED_AT": "Create At is"
+  },
+  "USER_MANAGEMENT": {
+    "USER_MANAGEMENT": "User Management",
+    "LIST_PAGE": "User List",
+    "ADD": "Add User"
+  },
+  "ERROR_PAGES": {
+    "404_NOT_FOUND": {
+      "404_ERROR": "404 Error",
+      "DESCRIPTION": "Sorry! The page you are looking for is not found",
+      "BACK": "Go back",
+      "REPORT": "Report"
+    }
+  },
+
+  "USERS": {
+"INVITE": "Invite people",
+"CREATE_GROUP": "Create group"
+  },
+  "TOOLBAR": {
+    "DEVELOPER_COMMUNITY": "Developer Community",
+    "CONTACT_US": "Contact Us",
+    "API_CATALOUGE": "API Catalogue",
+    "TEMENOS_EXCHANGE": "Temenos Exchange",
+    "SANDBOX": "Sandbox"
+  },
+  "USER_MENU": {
+    "LOGOUT": "Logout"
+  },
+  "FOOTER": {
+    "CONTACT_US": {
+      "CONTACT_US": "CONTACT US",
+      "SEE_LOCATIONS": "See Our Locations",
+      "CALL": "Call: +123 456 789",
+      "CUSTOMER_SUPPORT_SERVICE": "Customer Support Services"
+    },
+    "COMPANY": {
+      "COMPANY": "COMPANY",
+      "INVESTOR_RELATIONS": "Investor Relations",
+      "PRESS_RELASES": "Press Releases"
+    },
+    "LEGAL": {
+      "LEGAL": "LEGAL",
+      "COOKIE_POLICY": "Cookie Policy",
+      "PRIVACY_POLICY": "Privacy Policy",
+      "SUPPLIER_INFORMATION": "Supplier Information",
+      "TERMS_CONDITIONS": "Terms & Conditions"
+    },
+    "FOLLOW_US": "FOLLOW US"
+  }
+}
