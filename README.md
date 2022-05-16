@@ -1,6 +1,9 @@
-# tbc-marketing-site
-Marketing site for TBC 
-# [Marketing site for TBC ](https://temenos.com)
+
+
+# [Temenos Banking Cloud ](https://temenosbanking.cloud)
+
+![version](https://img.shields.io/badge/Version-1.0-blue)
+
 
 **Introducing The Temenos Banking Cloud**
 
