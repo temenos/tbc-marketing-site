@@ -1,6 +1,6 @@
 
 
-# [Temenos Banking Cloud ](https://temenosbanking.cloud)
+# [Temenos Banking Cloud ](https://temenosbanking.cloud)  ![Twitter](https://img.shields.io/twitter/follow/Temenos?style=social)
 
 ![version](https://img.shields.io/badge/Version-1.0-blue)
 
