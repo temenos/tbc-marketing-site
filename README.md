@@ -26,7 +26,7 @@ Banks can innovate faster than ever with an open platform for composable banking
 
 ## Exchange
 
-Our open banking marketplace offers an extensive selection of pre-integrated and certified FinTech services that help banks to accelerate the creation of new financial services. Temenos Exchange is the home for leading fintech services and a network of over 3000 banking clients in 150 countries.
+Our open banking marketplace offers an extensive selection of pre-integrated and certified FinTech services that help banks to accelerate the creation of new financial services. Temenos Exchange is the home for leading fintech services and a network of banking clients in 150 countries.
 
 ## Developer
 
